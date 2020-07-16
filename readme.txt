@@ -1,2 +1,4 @@
-This template was made by Colorlib (https://colorlib.com)
-Please visit our website for more awesome templates, themes and tools. 
+
+This is register form for netdot.
+A person can register or apply in netdot for course.
+before use add your smtp key in assets/smtp_mailer.php
